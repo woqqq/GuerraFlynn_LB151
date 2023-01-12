@@ -4,7 +4,7 @@ Guerra
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Fragen 1-5 Beantwortet                                       |
+| 11.01.2023    | 0.0.1   | Fragen 1-5 Beantwortet                                       |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
