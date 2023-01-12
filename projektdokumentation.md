@@ -93,6 +93,7 @@ Firebase ist eine Plattform, die es Entwicklern ermöglicht, Datenbank, Authenti
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+![GUI_Prototyp](https://user-images.githubusercontent.com/69577267/212009993-c5f03a64-a0aa-4c77-b171-25d7f97464b9.png)
 
 # 6 Implementation
 
