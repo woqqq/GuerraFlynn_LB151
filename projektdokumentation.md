@@ -20,24 +20,24 @@ Das Projekt ist ein Spiel, bei dem der Benutzer Wörter oder Redewendungen in ei
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): Anzeigen des Glückrades und des Gitters in welchem man das Wort erraten muss
+* Tier 2 (Webserver): Websicherheit, Verwaltung Guthaben Benutzer
+* Tier 3 (Application Server): Verbindung zur Datenbank
+* Tier 4 (Dataserver): Speichern des Guthabens eines Benutzers, Logindaten eines Benutzers
 
 # 2 Technologie
+* Tier 1 (Presentation): React
+* Tier 2 (Webserver): Node.js(?)
+* Tier 3 (Application Server): Node.js(?)
+* Tier 4 (Dataserver): Firebase
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
 
 # 3 Datenbank
 
-✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+Firebase ist eine Plattform, die es Entwicklern ermöglicht, Datenbank, Authentifizierung, Hosting und andere Funktionen in ihre Anwendungen zu integrieren. Firebase Realtime Database ist eine NoSQL-Datenbank, die auf JSON-Datenstrukturen aufbaut und in Echtzeit synchronisiert wird. Es ermöglicht schnell und einfach Daten in einer Anwendung zu speichern und abzurufen und bietet auch eine API für die Autorisierung und Authentifizierung.
 
 # 4.1 User Stories
 
-✍️ Formulieren Sie klare Anforderungen in der Form von User Stories (*„als … möchte ich … damit …“*) und zu jeder Anforderung mindestens einen dazugehörigen Testfall (in Kapitel 4.2). 
-
-✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
