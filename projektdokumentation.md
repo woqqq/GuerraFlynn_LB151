@@ -41,8 +41,25 @@ Das Projekt ist ein Spiel, bei dem der Benutzer Wörter oder Redewendungen in ei
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | muss | | Als ein Administrator möchte ich mich durch Benutzername und Passwort authentifizieren können, damit ich auf die Funktionen für Phrasen und Rätselwörter zugreifen kann. |
+| 2  | muss | | Als ein Administrator möchte ich Phrasen und Rätselwörter anlegen, ändern und löschen können, damit ich das Spiel mit aktuellen Rätseln und Phrasen füllen kann. |
+| 3  | muss | | Als ein Administrator möchte ich Kategorien anlegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen können, damit ich die Rätsel und Phrasen organisieren kann. |
+| 4  | muss | | Als ein Administrator möchte ich einzelne Einträge der Highscore-Liste löschen können, damit ich die Highscore-Liste aktuell halten kann. |
+| 5  | muss | | Als ein Kandidat möchte ich einen Namen eingeben können, der auf der Highscore-Liste erscheint, damit ich meine Leistungen mit anderen vergleichen kann. |
+| 6  | muss | | Als ein Kandidat möchte ich zu jeder Zeit den Kontostand sehen können, damit ich weiß, wie viel Geld ich erspielt habe. |
+| 7  | muss | | Als ein Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen können, damit ich weiß, wie viele Fehler ich noch machen darf. |
+| 8  | muss | | Als ein Kandidat möchte ich erfahren, ob meine Antwort richtig oder falsch war, damit ich weiß, wie ich mich im Rätsel verbessern kann. |
+| 9  | muss | | Als ein Kandidat möchte ich in der Highscore-Liste folgende Daten sehen: Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und Anzahl Spielrunden, damit ich meine Leistungen mit anderen vergleichen kann. |
+| 10  | muss | | Als ein Kandidat möchte ich sicherstellen, dass kein Rätsel-Wort und keine Phrase mir mehr als einmal gestellt werden, damit ich nicht immer dasselbe Rätsel bekomme. |
+| 11  | muss | | Als ein Kandidat möchte ich jederzeit entweder spielen oder aufhören und meinen Gewinn in die Highscore-Liste übernehmen können, damit ich die Wahl habe, ob ich weiterspielen oder meine Leistungen speichern möchte. |
+| 12  | muss | | Als ein Administrator möchte ich sicherstellen, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist, damit es genug Rätsel für die Kandidaten gibt. |
+| 13  | muss | | Als ein Administrator möchte ich die Anzahl der Spielrunden zählen können, damit ich weiß, wie oft das Spiel gespielt wurde. |
+| 14  | muss | | Als Entwickler möchte ich sicherstellen, dass einfache Formulareingaben, wie leere Textfelder etc., auf Client- und Serverseite geprüft werden, damit die Dateneingabe korrekt ist. |
+| 15  | muss | | Als Entwickler möchte ich eine Datenbank auswählen, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist, damit die Applikation flexibel ist. |
+| 16  | muss | | Als Entwickler möchte ich Transaktionsmanagement einsetzen, damit die Datenbankintegrität gewährleistet ist. |
+| 17  | muss | | Als Entwickler möchte ich Sicherheitsaspekte umsetzen, damit die Daten der Benutzer geschützt sind. |
+| 18  | muss | | Als Entwickler möchte ich eine session-basierte, professionelle 4-Tier Architektur verwenden, damit die Applikation stabil und skalierbar ist. |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
