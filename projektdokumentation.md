@@ -14,7 +14,7 @@ Guerra
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Das Projekt ist ein Spiel, bei dem der Benutzer Wörter oder Redewendungen in einem Gitter erraten muss, indem er Buchstaben an einer Rate-Wand ratet und dabei versucht, möglichst hohe Geldbeträge zu erspielen, indem er ein Glücksrad dreht, das verschiedene Arten von Feldern enthält.
 
 # 1 Analyse
 
