@@ -5,8 +5,8 @@ Guerra
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 11.01.2023    | 0.0.1   | Fragen 1-5 Beantwortet                                       |
-|       | 0.0.2   |                                                              |
-|       | 0.0.3   |                                                              |
+| 18.01.2023      | 0.0.2   | Informieren über Projektumsetzung mit React      |
+| 25.01.2023 | 0.0.3   | Realisierung begonnen, Login / Spiellogik begonnen |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
