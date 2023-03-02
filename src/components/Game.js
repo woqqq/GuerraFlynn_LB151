@@ -121,7 +121,6 @@ useEffect(() => {
       setGuessedLetters([...guessedLetters, letter]);
       setLettersToGuess(lettersToGuess.filter((l) => l !== letter));
       if (lettersToGuess.length === 1) {
-        // prüfen, ob der letzte Buchstabe ein gekauftes Vokal ist
         if (purchasedVowels.includes(lettersToGuess[0])) {
           setGameWon(true);
         } else {
