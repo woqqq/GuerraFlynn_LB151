@@ -187,6 +187,8 @@ Die grundsätzliche Spielefunktion und das Spiel ist spielbar und man kann auch 
 
 ✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
 
+https://www.youtube.com/watch?v=6e3QIDHC9W0
+
 # 10 Allgemeines
 
 - [x] Ich habe die Rechtschreibung überprüft
