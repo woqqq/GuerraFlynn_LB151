@@ -153,7 +153,8 @@ Firebase ist eine Plattform, die es Entwicklern ermöglicht, Datenbank, Authenti
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+
+
 
 | TC-№   |   Datum    | Resultat | Tester       |
 | ------ | :--------: | -------- | ------------ |
@@ -183,12 +184,13 @@ Firebase ist eine Plattform, die es Entwicklern ermöglicht, Datenbank, Authenti
 
 Die grundsätzliche Spielefunktion und das Spiel ist spielbar und man kann auch Münzen/Score verdienen. Die Anmeldung in den Adminbereich ist auch voll funktionstüchtig, jedoch ist der Adminbereich unvollständig. Für die Implementation einer Datenbank hat es an Wissen und Zeit gefehlt, dasselbe gilt auch für die Implementation einer funktionierenden Highscore liste.
 
+# Video von meinem Projekt
+https://www.youtube.com/watch?v=6e3QIDHC9W0
+
 # 9 `README.md`
 
 ✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
 
-# Video von meinem Projekt
-https://www.youtube.com/watch?v=6e3QIDHC9W0
 
 # 10 Allgemeines
 
