@@ -4,10 +4,10 @@ Guerra
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 11.01.2023    | 0.0.1   | Fragen 1-5 Beantwortet                                       |
-| 18.01.2023      | 0.0.2   | Informieren über Projektumsetzung mit React      |
-| 25.01.2023 | 0.0.3   | Realisierung begonnen, Login / Spiellogik begonnen |
-|       | 0.0.4   |                                                              |
+| 12.01.2023    | 0.0.1   | Fragen 1-5 Beantwortet                                       |
+| 19.01.2023      | 0.0.2   | Informieren über Projektumsetzung mit React      |
+| 26.01.2023 | 0.0.3   | Realisierung begonnen, Login / Spiellogik begonnen |
+|  02.02.2023  | 0.0.4   |   Login beendet, Spiellogik Basis fertig |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
