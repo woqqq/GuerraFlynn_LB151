@@ -41,3 +41,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Setting up the database
 
 ### `npm install firebase`
+
+Installs all the necessary firebase packages.
